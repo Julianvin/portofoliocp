@@ -1,0 +1,116 @@
+@media (max-width: 768px) {
+  header{
+    width: 800px;
+    text-align: center;
+  }
+
+  main{
+    height: 715px;
+    flex-direction: column;
+  }
+
+  .img1{
+    width: 420px;
+    height: 380px;
+  }
+
+  .img1:hover{
+    width: 465px;
+    height: 420px;
+  }
+}
+
+@media (max-width: 567px) {
+  header {
+    width: 420px;
+    text-align: center;
+    font-size: 10px;
+    height: 70px;
+  }
+
+  nav li {
+    margin: 0px;
+    padding-right: 10px;
+    padding-left: 5px;
+    font-size: 15px;
+  }
+
+  .container {
+    width: 350px;
+    font-size: 15px;
+  }
+
+  .container:hover {
+    font-size: 20px;
+  }
+
+  .img1 {
+    width: 300px;
+    height: 220px;
+  }
+
+  .img1:hover {
+    width: 350px;
+    height: 340px;
+  }
+
+  main {
+    flex-direction: column;
+    text-align: center;
+    height: 750px;
+  }
+
+
+}
+
+@media (max-width: 375px) {
+  header {
+    width: 360px;
+    text-align: center;
+    height: 50px;
+  }
+
+  .wrapabt{
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .tksabt{
+    font-size: 19px;
+    width: 320px;
+  }
+
+  .nickabt,.nickabt1{
+    font-size: 25px;
+  }
+
+  .img2{
+    height: 250px;
+    margin
+  }
+
+  nav li {
+    font-size: 12px;
+    padding-left: 10px;
+  }
+
+  main {
+    height: 700px;
+  }
+
+  .container {
+    font-size: 15px;
+    width: 295px;
+  }
+
+  .container:hover {
+    font-size: 18px;
+  }
+
+  .img1:hover {
+    height: 320px;
+  }
+
+}
+/* tablet responsive */
+
